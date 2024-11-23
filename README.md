@@ -34,7 +34,7 @@ If you like what I do and want to support me, you can:
 - ⭐ Star my projects
 - 🍴 Fork them
 - 💬 Provide feedback
-- 💖 Sponsor me on [GitHub Sponsors](https://github.com/sponsors/Mukhfyu22)
+- 💖 Sponsor me on [GitHub Sponsors](https://github.com/sponsors/Mukhfyu)
 
 ---
 
